@@ -1,0 +1,3 @@
+n this task, you shall analyse data sets by applying statistical and visualisation techniques discussed in the lecture. You can chose from the list of possible datasets (list will be available from February 25th), but keep in mind that only a limited number of students can use the same dataset; you will need to register in the Wiki which dataset you will work with.
+
+You can base your work on the stub of the jupyter notebook with the EDA tasks. Note: you do not need to use all the visualisation types shown in that notebook, especially the ones showing more attributes at the same time, if that does not appear useful in your dataset.
